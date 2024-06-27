@@ -1,4 +1,4 @@
-# Small Organization Network - README
+# Small Organization Network
 
 ## Project Overview
 
@@ -44,7 +44,8 @@ The network consists of several buildings, each with its own set of devices, con
 
 ## Network Diagram
 
-(images/network_diagram.png)
+<img width="726" alt="CN Final Project" src="https://github.com/raja-shahab/small-organization-network-cisco/assets/134993962/3ec25ec8-e91d-48bb-8b73-408f787dd2f4">
+
 
 ### Description
 
